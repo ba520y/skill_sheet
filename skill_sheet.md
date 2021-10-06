@@ -55,9 +55,9 @@
 
 授業以外に、集客や教材作成のための研究開発を行っています。
 
-1. 教室のHPの作成(Vue.js)
-2. 教室のオンライン予約システムの作成(Laravel)
-3. 物体検知AIでレゴブロックを分別するロボットアームの研究開発(Python, Jetson, Darknet, ROS, OPENCV)
+1. 物体検知AIでレゴブロックを分別するロボットアームの研究開発(Python, Jetson, Darknet, ROS, OPENCV)
+2. 教室のHPの作成(Vue.js)
+3. 教室のオンライン予約システムの作成(Laravel)
 4. 子育てタイプ分析ツールのリリース(iOS, Android)
 5. その他教材開発
 
@@ -76,6 +76,7 @@
 |           Opencv            |  2年  |
 |           Darknet           | 0.5年 |
 | ROS(Robot Operating System) |  1年  |
+|           github            |  1年  |
 |            Flask            | 0.5年 |
 |         HTML/HTML5          | 1.5年 |
 |            CSS3             | 1.5年 |
